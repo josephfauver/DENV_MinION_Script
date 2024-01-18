@@ -1,0 +1,14 @@
+barcode01,DH002
+barcode02,DH009
+barcode03,DH014
+barcode04,DH023
+barcode05,DH053
+barcode06,DH060
+barcode07,DH105
+barcode08,DH108
+barcode09,DH163
+barcode10,DH113
+barcode11,DH119
+barcode12,DH125
+barcode13,NTC1
+barcode14,NTC2
